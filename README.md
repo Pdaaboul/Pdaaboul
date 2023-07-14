@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's Peter Daaboul</h1>
+<h1 align="center">Heyy 🫡, It's Peter Daaboul</h1>
 <h3 align="center">A passionate developer from Lebanon 🇱🇧</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 - 🔭 I’m currently working on **Web development**
