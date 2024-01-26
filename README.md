@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Lebanon 🇱🇧</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
-- 🔭 I’m currently working in **Front-End Development**
+- 🔭 I’m currently working in **FullStack Development**
 
-- 🌱 I’m currently learning **OS, DataStructures, Algorithms & Express.js**
+- 🌱 I’m currently learning **Next.js, React.js & Express.js**
 
 - 💬 Ask me about **Java, DataStructures, Algorithms & Web Development**
 
