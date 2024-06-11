@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working in **FullStack Development**
 
-- 🌱 I’m currently learning **Next.js, React.js & Express.js**
+- 🌱 I’m currently learning **Next.js,React Native & Nest.js**
 
-- 💬 Ask me about **Java, DataStructures, Algorithms & Web Development**
+- 💬 Ask me about **OOP, DataStructures, FullStack Development**
 
 - 📫 How to reach me **peterdaaboul@outlook.com**
 
