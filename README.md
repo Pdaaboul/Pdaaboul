@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Lebanon 🇱🇧</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
-- 🔭 I’m currently working in **FullStack Development**
+- 🔭 I’m currently working as a  **Junior Software Engineer**
 
 - 🌱 I’m currently learning **Next.js,React Native & Nest.js**
 
